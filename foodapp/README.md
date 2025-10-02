@@ -12,14 +12,6 @@ A modern, responsive recipe discovery application that helps food enthusiasts fi
 
 </div>
 
-## 📸 Screenshots
-
-*Add your screenshots here*
-<!-- ![Home Page](./screenshots/home.png) -->
-<!-- ![Recipe Details](./screenshots/details.png) -->
-
-## ✨ Features
-
 ### 🔍 Smart Recipe Search
 - **Keyword Search**: Find recipes by name, ingredients, or cuisine
 - **Advanced Filtering**: Filter by diet, intolerances, meal type, and cooking time
