@@ -25,5 +25,5 @@ A responsive movie browsing application built with React that allows users to:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/Kokwana-Phaks/movie-app.git
 cd movie-app/frontEnd
