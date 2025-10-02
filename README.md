@@ -74,12 +74,3 @@ A cutting-edge, full-stack stock market application featuring real-time data, AI
 - **Professional Documentation**
 
 ## 🚀 Getting Started
-
-Each project runs independently with its own dependencies and configuration.
-
-### Recipe Finder App
-```bash
-cd foodapp
-npm install
-# Add Spoonacular API key to .env file
-npm start
